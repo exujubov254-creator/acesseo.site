@@ -1,0 +1,28 @@
+SITE INSTITUCIONAL — 38.463.482 Almir Machado Scutilaker
+
+Arquivos:
+- index.html: página principal
+- sobre.html: apresentação da empresa
+- privacidade.html: política de privacidade
+- termos.html: termos de uso
+- assets/: imagens enviadas e folha de estilos
+
+Como visualizar:
+1. Extraia o arquivo ZIP.
+2. Abra index.html no navegador.
+3. Para publicar, envie toda a pasta mantendo a estrutura de arquivos.
+
+Dependências externas:
+- Bootstrap 5.3.3 via CDN
+- Bootstrap Icons via CDN
+- Google Fonts via CDN
+
+IMPORTANTE ANTES DE PUBLICAR:
+- Confirme os dados cadastrais, endereço, e-mail e telefone.
+- Confirme se as imagens podem ser utilizadas comercialmente.
+- Revise a Política de Privacidade para refletir cookies, pixels, Google Analytics,
+  Google Ads/remarketing, formulários e quaisquer ferramentas realmente instaladas.
+- Os documentos legais são modelos informativos e não substituem revisão jurídica.
+- O site não possui backend, formulário de envio nem sistema de rastreamento.
+- A publicação do site não garante aprovação no Google Ads; revise também as políticas
+  de publicidade e a página de destino do Google.
